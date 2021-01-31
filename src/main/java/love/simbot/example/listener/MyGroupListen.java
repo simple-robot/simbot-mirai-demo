@@ -13,7 +13,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * 群消息监听。
+ * 群消息监听的示例类。
  * 所有需要被管理的类都需要标注 {@link Beans} 注解。
  * @author ForteScarlet
  */
