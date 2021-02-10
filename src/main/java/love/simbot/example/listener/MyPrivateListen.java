@@ -1,6 +1,6 @@
 package love.simbot.example.listener;
 
-import love.forte.catcode.CatCodeUtil;
+import catcode.CatCodeUtil;
 import love.forte.common.ioc.annotation.Beans;
 import love.forte.common.ioc.annotation.Depend;
 import love.forte.simbot.annotation.OnPrivate;
@@ -9,7 +9,6 @@ import love.forte.simbot.api.message.MessageContentBuilder;
 import love.forte.simbot.api.message.MessageContentBuilderFactory;
 import love.forte.simbot.api.message.events.PrivateMsg;
 import love.forte.simbot.api.sender.Sender;
-import net.mamoe.mirai.message.data.Face;
 
 /**
  * 私聊消息监听的示例类。

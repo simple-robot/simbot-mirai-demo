@@ -1,6 +1,6 @@
 package love.simbot.example.listener;
 
-import love.forte.catcode.Neko;
+import catcode.Neko;
 import love.forte.common.ioc.annotation.Beans;
 import love.forte.simbot.annotation.OnGroup;
 import love.forte.simbot.api.message.MessageContent;
