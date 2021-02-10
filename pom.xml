@@ -11,6 +11,7 @@
         <version>2.0.0</version>
     </parent>
 
+    <groupId>simbot.example</groupId>
     <artifactId>simbot-mirai-demo</artifactId>
 
     <properties>
