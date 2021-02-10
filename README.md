@@ -25,3 +25,4 @@ simbot:
 
 ### 协助
 如果你有一个好的示例点子，你可以通过[github pr](https://github.com/simple-robot/simbot-mirai-demo/pulls) 来协助此demo项目的更新。
+
