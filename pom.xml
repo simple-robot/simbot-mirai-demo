@@ -8,7 +8,7 @@
     <parent>
         <groupId>love.forte.simple-robot</groupId>
         <artifactId>parent</artifactId>
-        <version>2.1.0-M1</version><!--vv-->
+        <version>2.1.1</version><!--vv-->
     </parent>
 
     <groupId>simbot.example</groupId>
