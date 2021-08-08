@@ -20,8 +20,8 @@ import love.forte.simbot.core.SimbotApp;
  * @author ForteScarlet
  */
 @SimbotApplication({
-        // @SimbotResource(value = "simbot.yml", orIgnore = true),
-        @SimbotResource(value = "simbot-dev.yml", orIgnore = true),
+        @SimbotResource(value = "simbot.yml", orIgnore = true),
+        @SimbotResource(value = "simbot-dev.yml", orIgnore = true, command = "dev"),
 })
 // @SimbotApplication
 public class SimbotExampleApplication {
