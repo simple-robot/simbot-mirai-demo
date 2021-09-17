@@ -26,6 +26,13 @@
             <artifactId>component-mirai</artifactId>
         </dependency>
 
+        <!--<dependency>-->
+        <!--    <groupId>love.forte.simple-robotx</groupId>-->
+        <!--    <artifactId>plugin-core</artifactId>-->
+        <!--    <version>2.3.0-ALPHA.1&lt;!&ndash;v&ndash;&gt;</version>-->
+        <!--    <scope>test</scope>-->
+        <!--</dependency>-->
+
         <!-- 定时任务模块 -->
         <!--<dependency>-->
         <!--    <groupId>love.forte.simple-robot.time-task</groupId>-->
