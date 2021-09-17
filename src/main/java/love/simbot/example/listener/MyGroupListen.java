@@ -29,6 +29,13 @@ public class MyGroupListen {
      * 此处使用的是模板注解 {@link OnGroup}, 其代表监听一个群消息。
      *
      * 由于你监听的是一个群消息，因此你可以通过 {@link GroupMsg} 作为参数来接收群消息内容。
+     *
+     * <p>
+     * 注意！ 假如你发现你群消息发不出去（或者只有一些很短的消息能发出去）且没有任何报错，
+     * 但是尝试后，发现 <b>私聊</b> 一切正常，能够发送，那么这是 <b>正常现象</b>！
+     *
+     * 参考：
+     *
      */
     @OnGroup
     public void onGroupMsg(GroupMsg groupMsg) {
