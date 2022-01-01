@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <simbot.version>2.3.0</simbot.version>
+        <simbot.version>2.3.4</simbot.version>
     </properties>
 
     <dependencies>
@@ -39,7 +39,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <!-- main方法所在类。 -->
-                    <mainClass>love.simbot.example.SimbotExampleApplication</mainClass>
+                    <mainClass>love.simbot.example.TestSimbotExampleApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
