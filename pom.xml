@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <simbot.version>2.3.4</simbot.version>
+        <simbot.version>2.4.0</simbot.version>
     </properties>
 
     <dependencies>
